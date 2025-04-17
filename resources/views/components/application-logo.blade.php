@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/logo-rotan-mindi.png') }}" width="100px" alt="">
